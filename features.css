@@ -1,0 +1,62 @@
+.featurestitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.featuressec{
+    width: 100%;
+    height: auto;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.card1{
+    width: 350px;
+    height: 250px;
+   background: #ededed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+.card1 i{
+    font-size: 50px;
+}
+.card2{
+    width: 350px;
+    height: 250px;
+    background: #ededed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+      text-align: center;
+       border-radius: 10px;
+}
+.card2 i{
+    font-size: 50px;
+}
+.card3{
+    width: 350px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    background: #ededed;
+      text-align: center;
+       border-radius: 10px;
+}
+.card3 i{
+    font-size: 50px;
+}
